@@ -26,5 +26,6 @@
   "scripts": {
     "postdeploy": "bundle exec rake setup"
   },
-  "success_url": "/"
+  "success_url": "/",
+  "stack": "heroku-20"
 }
