@@ -6,7 +6,7 @@
   "keywords": ["instagram", "token", "basic-display-api", "instafeed"],
   "addons": [
     "scheduler:standard",
-    "heroku-postgresql:hobby-dev",
+    "heroku-postgresql:mini",
     "memcachier:dev"
   ],
   "env": {
